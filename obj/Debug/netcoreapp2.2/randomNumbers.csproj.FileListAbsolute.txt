@@ -1,0 +1,11 @@
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.deps.json
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.json
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.dev.json
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.dll
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.pdb
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csprojAssemblyReference.cache
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csproj.CoreCompileInputs.cache
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfoInputs.cache
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfo.cs
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.dll
+/alidhobey/programming/nss/cohort31/Exercises/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.pdb
